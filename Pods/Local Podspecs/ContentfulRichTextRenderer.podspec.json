@@ -1,6 +1,6 @@
 {
   "name": "ContentfulRichTextRenderer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Swift library for rendering Contentful RichTextDocument.",
   "homepage": "https://github.com/contentful-labs/rich-text-renderer.swift",
   "social_media_url": "https://twitter.com/contentful",
@@ -11,7 +11,7 @@
   },
   "source": {
     "git": "https://github.com/contentful-labs/rich-text-renderer.swift.git",
-    "tag": "0.2.0"
+    "tag": "0.2.1"
   },
   "requires_arc": true,
   "swift_versions": "5.2",
@@ -20,9 +20,6 @@
   },
   "source_files": "Sources/RichTextRenderer/**/*.swift",
   "dependencies": {
-    "AlamofireImage": [
-      "~> 4.1.0"
-    ],
     "Contentful": [
       "~> 5.2.0"
     ]
